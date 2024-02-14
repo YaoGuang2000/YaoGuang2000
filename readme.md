@@ -53,7 +53,7 @@ I am an amateur programming enthusiast.I am currently developing a project for a
 
 
 - GitHub: [YaoGuang2000][github] (Why not follow me? :eyes:)
-- Email: [630154839@qq.com][e-mail]
+- Email: [zhengjunyi@live.com][e-mail]
 
 <!-- Links -->
 
