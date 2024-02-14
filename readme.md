@@ -23,13 +23,7 @@ Here are some ideas to get you started:
   <img align="right" width="460px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=dracula#gh-dark-mode-only">
 </a> -->
 
-<a href="https://github.com/mogeko">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=one_dark_pro">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&include_all_commits=true&disable_animations=true">
-    <img align="right" width="480px" alt="GitHub Stats Card" src="https://github-readme-stats.vercel.app/api?username=mogeko&show_icons=true&include_all_commits=true&disable_animations=true">
-  </picture>
-</a>
+
 
 I am an amateur programming enthusiast.I am currently developing a project for a team.If you want to contact me, please add me on **QQ** 630154839
 
