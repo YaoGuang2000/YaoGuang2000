@@ -47,7 +47,7 @@ I am an amateur programming enthusiast.I am currently developing a project for a
 
 
 - GitHub: [YaoGuang2000][github] (Why not follow me? :eyes:)
-- Email: [zhengjunyi@live.com][e-mail]
+- Email: [bzt630@gmail.com][e-mail]
 
 <!-- Links -->
 
