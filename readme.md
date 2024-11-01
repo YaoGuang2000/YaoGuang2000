@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-I am an amateur programming enthusiast.I am currently developing a project for a team.If you want to contact me, please add me on **QQ** 630154839
+I am an amateur programming enthusiast.I am currently developing a project for a team.If you want to contact me, please contact me with **QQ** 630154839
 
 - :telescope: I’m focus on **My university studies** & [**My Blog**][blog].
 - :seedling: I’m learning ![badge_elixir] & ![badge_next-js].
